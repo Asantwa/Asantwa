@@ -25,7 +25,9 @@
   
   <p>If you're interested in reaching out to me, you can find me on [insert your preferred method of contact]. Feel free to connect, collaborate, or just say hello!</p>
   
-  <p>Let's embark on this exciting journey together and make an impact in the world of technology! 🚀</p>
+  <p>Let's embark on this exciting journey together and make an impact in the world of technology! </p>
+
+  LinkedIn: https://www.linkedin.com/in/asantwa-smith/
    
 </body>
 </html>
