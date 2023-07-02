@@ -9,7 +9,7 @@
   
   <p>I'm @Asantwa, a driven developer in the making pushing the boundaries of education. Currently, I'm strengthening my HTML & CSS skills through projects.</p>
   
-  <p>I'm learning the skills of a data analyst and program manager. I aspire to help shape the digital future and am eager to learn.</p>
+  <p>I'm learning the skills of a Software Engineer, Data analyst, and Program manager through my daily task. I aspire to help shape the digital future and am eager to learn.</p>
   
   <h2>What to Expect</h2>
   
