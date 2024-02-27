@@ -1,33 +1,28 @@
-<!DOCTYPE html>
-<html>
-<head>
+<h1 align="center">Hello 👋🏾, I'm Asantwa Smith</h1>
+<h3 align="center">A driven developer pushing the boundaries of education. Currently, I'm strengthening my Python, React and AI skills through projects. By continuously learning the skills I need I'm one step closer to becoming a Software Engineer. I aspire to help shape the digital future!</h3>
 
+- 📓 I’m currently learning **Swift, Data Structures and Algorithms and React**
 
-</head>
-<body>
-                <h1>👋 Hello and Welcome!</h1>
-  
-  <p>I'm @Asantwa, a driven developer in the making pushing the boundaries of education. Currently, I'm strengthening my HTML & CSS skills through projects.</p>
-  
-  <p>I'm learning the skills of a Software Engineer, Data analyst, and Program manager through my daily task. I aspire to help shape the digital future and am eager to learn.</p>
-  
-  <h2>What to Expect</h2>
-  
-  <p>You should follow me on my journey and watch as I grow and learn new skills. On my GitHub, you can expect to find:</p>
-  
-  <ul>
-    <li>Web Development Projects: I will be working on various web development projects to enhance my skills and showcase my abilities.</li>
-    <li>API Projects: I will be exploring the world of APIs and building projects that leverage their power.</li>
-    <li>And much more: I intend on learning and mastering a wide range of technologies and concepts, so you can expect a diverse range of projects on my profile.</li>
-  </ul>
-  
-  <h2>Contact</h2>
-  
-  <p>If you're interested in reaching out to me, you can find me on [insert your preferred method of contact]. Feel free to connect, collaborate, or just say hello!</p>
-  
-  <p>Let's embark on this exciting journey together and make an impact in the world of technology! </p>
+- 👩🏾‍💻 All of my projects are available at [https://github.com/Asantwa](https://github.com/Asantwa)
 
-  LinkedIn: https://www.linkedin.com/in/asantwa-smith/
-   
-</body>
-</html>
+- 💬 Ask me about **Artificial Intelligence**
+
+- 📫 How to reach me **asantwa.smith@gmail.com**
+
+- ⚡ Fun fact **I enjoy Marvel Movies and Black Panther is my favorite Marvel Character.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/asantwa-smith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/asantwa-smith/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asantwasmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asantwasmith" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asantwa&show_icons=true&locale=en&layout=compact" alt="asantwa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asantwa&show_icons=true&locale=en" alt="asantwa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asantwa&" alt="asantwa" /></p>
+
