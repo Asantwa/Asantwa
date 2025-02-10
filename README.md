@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏾, I'm Asantwa Smith</h1>
-<h3 align="center">A driven developer pushing the boundaries of education. Currently, I'm strengthening my Python, React and AI skills through projects. By continuously learning the skills I need I'm one step closer to becoming a Software Engineer. I aspire to help shape the digital future!</h3>
+<h3 align="center">A driven developer pushing the boundaries of education. Currently, I'm strengthening my Python, Data Science and AI skills through projects. By continuously learning the skills I need I'm one step closer to becoming a great Software Engineer. I aspire to help shape the digital future!</h3>
 
-- 📓 I’m currently learning **Swift, Data Structures and Algorithms and React**
+- 📓 I’m currently learning about **Data Structures & Algorithms and LLMs**
 
 - 👩🏾‍💻 All of my projects are available at [https://github.com/Asantwa](https://github.com/Asantwa)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **asantwa.smith@gmail.com**
 
-- ⚡ Fun fact **I enjoy Marvel Movies and Black Panther is my favorite Marvel Character.**
+- ⚡ Fun fact **I enjoy Marvel Movies! Black Panther is my favorite Marvel Character.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
